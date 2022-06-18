@@ -1,0 +1,9 @@
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\ResolveAssemblyReference.cache
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\ScreenCaptureDemo.Form1.resources
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\ScreenCaptureDemo.Properties.Resources.resources
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\GenerateResource.read.1.tlog
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\GenerateResource.write.1.tlog
+E:\BELAJAR\ScreenCaptureDemo\bin\Release\ScreenCaptureDemo.exe
+E:\BELAJAR\ScreenCaptureDemo\bin\Release\ScreenCaptureDemo.pdb
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\ScreenCaptureDemo.exe
+E:\BELAJAR\ScreenCaptureDemo\obj\x86\Release\ScreenCaptureDemo.pdb
